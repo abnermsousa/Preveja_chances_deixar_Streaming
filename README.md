@@ -1,0 +1,1 @@
+# Preveja_chances_deixar_Streaming_desafio6
