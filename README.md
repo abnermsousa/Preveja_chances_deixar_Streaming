@@ -22,17 +22,28 @@ de streaming, divididos entre contas Basic, Standard e Premium, onde cada uma
 oferece uma gama maior de serviços que a anterior.
 
 Coluna | Descrição | Tipo
+
 client_id | Código de identificação do cliente | Int
+
 age | Idade do cliente | Int
+
 gender | Gênero do cliente | String
+
 region | Região de origem do cliente | String
+
 subscription_days | Dias de assinatura ativa do cliente | Int
+
 subscription_type | Tipo de conta | String
+
 num_contents | Quantidade de conteúdos assistidos | Int
+
 avg_rating | Avaliação média dos conteúdos da plataforma | Int
+
 num_active_profiles | Número de perfis ativos na plataforma | Int
+
 num_streaming_services | Quantidade de serviços de streaming que o
 cliente possui | Int
+
 devices_connected | Quantidade de dispositivos conectados à conta | Int
 churned | Se o cliente cancelou a conta ou não | Int
 
