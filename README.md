@@ -1,4 +1,4 @@
-# Preveja_chances_deixar_Streaming_desafio6
+# Preveja_chances_deixar_Streaming(desafio 6)
 Utilize um modelo de classificação para mapear qual o perfil de
 usuários tem mais chance de deixar sua plataforma de streaming.
 Compreender quem é o perfil que está aumentando o churn do seu
